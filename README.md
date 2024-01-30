@@ -1,0 +1,1 @@
+# Hackerrank_SQL_Intermediate_Certification_Solution
